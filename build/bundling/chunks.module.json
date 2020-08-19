@@ -1,0 +1,82 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.1",
+  "hash": "a375a5b9a6df9acf123a",
+  "publicPath": "/static/",
+  "outputPath": "/Users/foamyseal/sus.ubc.ca/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "sus.ubc.ca": "sus.ubc.ca.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 47489,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": true
+    },
+    {
+      "name": "sus.ubc.ca.module.js",
+      "size": 5069495,
+      "chunks": [
+        "sus.ubc.ca"
+      ],
+      "chunkNames": [
+        "sus.ubc.ca"
+      ],
+      "info": {},
+      "emitted": true,
+      "isOverSizeLimit": true
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "sus.ubc.ca": {
+      "chunks": [
+        "sus.ubc.ca"
+      ],
+      "assets": [
+        "sus.ubc.ca.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "sus.ubc.ca": {
+      "chunks": [
+        "sus.ubc.ca"
+      ],
+      "assets": [
+        "sus.ubc.ca.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
