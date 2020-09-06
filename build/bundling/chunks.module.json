@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.1",
-  "hash": "a375a5b9a6df9acf123a",
+  "hash": "120b1419c0c8c02921bc",
   "publicPath": "/static/",
-  "outputPath": "/Users/foamyseal/sus.ubc.ca/build/static",
+  "outputPath": "/Users/lindama/Desktop/sus/WebMaster/WebMaster/build/static",
   "assetsByChunkName": {
     "list": "list.module.js",
     "sus.ubc.ca": "sus.ubc.ca.module.js"
@@ -12,7 +12,7 @@
   "assets": [
     {
       "name": "list.module.js",
-      "size": 47489,
+      "size": 47905,
       "chunks": [
         "list"
       ],
@@ -20,11 +20,11 @@
         "list"
       ],
       "info": {},
-      "emitted": true
+      "emitted": false
     },
     {
       "name": "sus.ubc.ca.module.js",
-      "size": 5069495,
+      "size": 10419456,
       "chunks": [
         "sus.ubc.ca"
       ],
