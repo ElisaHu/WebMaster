@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WebMaster
 
 This is the code warehouse for Science Undergraduate Society WebMaster Code.
@@ -89,4 +88,4 @@ We have different channels at your disposal where you can find information about
 Got questions or feedback about Frontity? We'd love to hear from you. Use our [community forum](https://community.frontity.org) yo ! ❤️
 
 Frontity also welcomes contributions. There are many ways to support the project! If you don't know where to start, this guide might help → [How to contribute?](https://docs.frontity.org/contributing/how-to-contribute)
->>>>>>> initial commit
+
