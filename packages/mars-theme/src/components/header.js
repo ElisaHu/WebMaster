@@ -3,11 +3,13 @@ import { connect, styled } from "frontity";
 import Link from "./link";
 import Nav from "./nav";
 import MobileMenu from "./menu";
+import { Button } from '@material-ui/core';
 
 const Header = ({ state }) => {
   return (
     <>
       <Container>
+        <Button>Test</Button>
         <StyledLink link="/">
           <Title>{state.frontity.title}</Title>
         </StyledLink>
